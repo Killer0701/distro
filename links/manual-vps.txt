@@ -1,1 +1,0 @@
-ssh GH6d4qGNexjrWFYcnXaxtPjNf@nyc1.tmate.io
