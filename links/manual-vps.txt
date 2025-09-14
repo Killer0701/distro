@@ -1,1 +1,0 @@
-ssh LMHV3xDcYXkUkjDNNnZyFwYBk@nyc1.tmate.io
